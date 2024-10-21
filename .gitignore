@@ -8,6 +8,9 @@ xcuserdata/
 ## Obj-C/Swift specific
 *.hmap
 
+# macOS system file
+.DS_Store
+
 ## App packaging
 *.ipa
 *.dSYM.zip
