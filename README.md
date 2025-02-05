@@ -1,7 +1,7 @@
 # idol-Repository
 A Mobile App for storing idol profile and photos
 
-### Feature 32
+### Feature 33
 
 description:
 
